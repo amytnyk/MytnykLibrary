@@ -1,2 +1,2 @@
 # MytnykLibrary
-Library for c++
+Library for c++ and c#
