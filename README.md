@@ -1,2 +1,2 @@
-# MytnykC-Library
+# MytnykLibrary
 Library for c++
